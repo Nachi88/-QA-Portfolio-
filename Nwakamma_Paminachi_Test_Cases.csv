@@ -1,0 +1,12 @@
+Test Case ID,Test Scenario,Test Steps,Expected Result,Actual Result,Status,Remarks
+TC001,Login Functionality,"1. Open App
+2. Enter valid username
+3. Enter valid password
+4. Click Login",User should log in successfully,,,
+TC002,Login with invalid password,"1. Open App
+2. Enter valid username
+3. Enter invalid password
+4. Click Login",User should see an error message,,,
+TC003,Search Feature,"1. Open App
+2. Enter search term
+3. Click Search",Search results relevant to the term are displayed,,,
