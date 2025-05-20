@@ -1,0 +1,37 @@
+Test Case Name: TC01_ValidLogin
+
+Test Scenario:
+Verify that a registered user can successfully log in to the application using valid email and password credentials.
+
+Preconditions:
+- The user must have a valid account registered with the system.
+- The application URL is accessible.
+- The browser is compatible with the application.
+
+Test Steps:
+1. Launch the web browser (Chrome, Firefox, or Edge).
+2. Navigate to the login page URL: https://example.com/login
+3. Wait for the login page to load completely.
+4. Locate the email input field on the login form.
+5. Enter a valid registered email address (e.g., testuser@example.com) into the email field.
+6. Locate the password input field on the login form.
+7. Enter the correct password (e.g., 123456) associated with the email.
+8. Locate and click the "Login" button.
+9. Wait for the page to process the login request.
+10. Verify that the user is redirected to the dashboard page.
+11. Confirm that a welcome message or dashboard elements are displayed, indicating successful login.
+12. Confirm that no error messages are shown.
+
+Expected Result:
+- The user is successfully logged in.
+- The dashboard page or home page is displayed.
+- A welcome message or user-specific content is visible.
+- No error or warning messages are displayed during or after login.
+
+Postconditions:
+- The user session is active.
+- The user can perform authorized actions on the dashboard.
+
+Notes:
+- If the login fails, an appropriate error message should be shown.
+- The test should be repeated on different browsers to check cross-browser compatibility.
