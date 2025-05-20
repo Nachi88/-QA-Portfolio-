@@ -1,0 +1,41 @@
+
+Nwakamma Paminachi Joy
+Lagos, Lekki, Nigeria
+Phone: +2348133337984
+Email: Nwakammapam@gmail.com
+GitHub: [YourGitHubLink]
+
+Professional Summary
+Detail-oriented and passionate Manual and Automation QA Tester with hands-on experience in testing web and mobile applications. Skilled in writing clear test cases, executing functional and regression tests, and using popular testing tools such as Postman, Katalon, Cypress, and Selenium. Completed internship at Nupat Technology with experience testing apps like Ulego. Eager to contribute to a remote QA role to ensure software quality and user satisfaction.
+
+Skills
+- Manual Testing (Functional, Regression, Smoke, UAT)
+- Test Case Design & Execution
+- API Testing with Postman
+- Automation Testing using Katalon Studio, Cypress, Selenium
+- Bug Reporting & Tracking (Trello, Jira basics)
+- Test Documentation & Reporting
+- Basic SQL Queries (if applicable)
+- Version Control with Git/GitHub
+
+Tools Used
+Postman | Katalon Studio | Cypress | Selenium | Trello | GitHub | Google Sheets
+
+Professional Experience
+QA Intern — Nupat Technology
+Dates: [Start Month/Year] – [End Month/Year]
+- Developed and executed manual test cases for mobile and web applications.
+- Participated in API testing using Postman.
+- Collaborated with developers to report and track bugs.
+- Tested the Ulego app, identifying functional bugs and reporting defects.
+- Assisted in automating test scripts using Katalon and Cypress.
+
+Education
+OND / HND — Lagos State Polytechnic, Ikorodu
+
+Projects / Portfolio
+- Manual and Automation test cases for Ulego App (available on GitHub)
+- Sample test case repository: [Link to Google Sheets or GitHub]
+
+Languages
+English (Fluent) | Igbo (Native)
